@@ -1,224 +1,71 @@
-# Mahbub R Maulaa
-
-### Urban Data Analyst and Writer
-
-# About Me:
+## About Me
 I am a Research Assistant at the Boston Area Research Initiative (BARI) and a founder of Curiocity Indonesia. My research focus extends to a wide range of topics, including climate issues, housing, transportation, and community development. 
 
-# Education:
-## Northeastern University – April 2026
-## Institut Teknologi Bandung – Oktober 2019
+## Education:
+1. Northeastern University – April 2026
+2. Institut Teknologi Bandung – Oktober 2019
 
-# Experience:
-## Boston Area Research Initiative (BARI) – Research Assistant (Jan 2025—April 2026)
-## NUDP World Bank-PT Lenggogeni-MoHA Indonesia – Development Planning Assistant (March 2023—June 2024)
-## Ruang Waktu Knowledge Hub – Knowledge Worker (May 2022—June 2024)
-## Pikiran Rakyat Media Network – Journalist (Dec 2019—July 2021)
-## Institute for Transportation and Development Policy (ITDP) – Intern (April 2019—Oct 2019)
+## Experience:
+1. Boston Area Research Initiative (BARI) – Research Assistant (Jan 2025—April 2026)
+2. NUDP World Bank-PT Lenggogeni-MoHA Indonesia – Development Planning Assistant (March 2023—June 2024)
+3. Ruang Waktu Knowledge Hub – Knowledge Worker (May 2022—June 2024)
+4. Pikiran Rakyat Media Network – Journalist (Dec 2019—July 2021)
+5. Institute for Transportation and Development Policy (ITDP) – Intern (April 2019—Oct 2019)
 
-# Projects
-## Evaluating the Effect of Short-Term Rental (STR) Program on Airbnb Growth in Boston (2019-2022) 
+## Projects
+### Evaluating the Effect of Short-Term Rental (STR) Program on Airbnb Growth in Boston (2019-2022) 
+
+**Airbnb Growth Index in Greater Boston Area (2019-2022)**
 ![Airbnb Growth Index in Greater Boston Area (2019-2022)](Airbnb.png)
-### Picture: Airbnb Growth Index in Greater Boston Area (2019-2022)
 
-To curb the negative impact of Airbnb on housing stocks, the City of Boston imposed a Short-Term Rental (STR) Program in 2019. This project assesses the effectiveness of the STR Program in controlling the growth of Airbnb in Boston in comparison to other neighboring towns across the Greater Boston Area. Furthermore, the project investigates a deeper analysis of Blue Hill Ave, where the Common SENSE project is implemented to examine environmental justice. This neighborhood could become an example of how effective this policy can be.
+To curb the negative impact of Airbnb on housing stocks, the City of Boston imposed a Short-Term Rental (STR) Program in 2019. This project assesses the effectiveness of the STR Program in controlling the growth of Airbnb in Boston in comparison to other neighboring towns across the Greater Boston Area using quantitative methods. 
 
-This project uses quantitative methods. The descriptive statistics method is used to break down the demographic, property value, and Airbnb information throughout the years. To compare the growth index between Boston and other cities, the project used inferential statistics, specifically the student’s t-test method. For Airbnb growth predictions, I used a regression model with four independent variables: new condominium development, property value growth, the rates of property value growth, and median household income.
+First, we break down the demographic, property value, and Airbnb information throughout the years using descriptive statistics. After that, we compare the growth index between Boston and other cities using inferential statistics, specifically the student’s t-test method. Finally, we predict the Airbnb growth using a regression model with four independent variables: new condominium development, property value growth, the rates of property value growth, and median household income.
 
-We observe that the growth of Airbnb listings, prices, and availability/occupancy in Boston City is slower than in other neighboring towns in Greater Boston. Furthermore, the specific restrictions in this program have successfully reduced the growth index of the home-sharing industry in Boston’s public housing areas. The City of Boston has successfully implemented the STR Program to mitigate the housing crisis while maintaining the benefits of the gig economy. Brookline, another neighboring town, replicated this policy in 2021, and its results may not be reflected in this study. Our analysis can also help Boston residents, especially those in the Blue Hill Ave community, understand the impact of this policy on urban justice.
+As a result, Airbnb listings, prices, and availability/occupancy in Boston is growing slower than in other neighboring towns in Greater Boston. By reducing the growth index of the home-sharing industry, especially in the predominantly public housing neighborhoods, the City of Boston has mitigated the further impact of housing crisis while maintaining the benefits of the gig economy. Brookline, another neighboring town, replicated this policy in 2021, and its results may not be reflected in this study.
 
-## Identifying Critical Bike Network Improvement for Boston’s Vision Zero 2030
+### Identifying Critical Bike Network Improvement for Boston’s Vision Zero 2030
+
+**Vision Zero 2030: Bike-related Safety Concerns**
 ![Vision Zero 2030: Bike-related Safety Concerns](Picture2.jpg)
-### Picture: Vision Zero 2030: Bike-related Safety Concerns
-### Data source: Analyze Boston and BARI, 2023
+*Data source: Analyze Boston and BARI, 2023*
 
-Bike accidents in Boston have increased throughout the years. Department of Transportation of the Commonwealth of Massachusetts (MassDOT) reported 113 crashes in 2024, which increased 36.14% from the previous year. This situation could be a critical problem for Boston, which aims to reduce traffic accidents by 2030. Beyond vision zero, Boston also aims to achieve better cycling accessibility by 2030. They plan to improve the network by fourfold to increase bike commuters. To achieve both goals, the City of Boston needs to build an improvement plan for bike networks with a defined priority, which can be generated by utilizing GIS.
+Department of Transportation of the Commonwealth of Massachusetts (MassDOT) reported 113 bike-related crashes in 2024, which increased 36.14% from the previous year. To reduce bike accidents, the City of Boston plan to improve bike network and aim for zero accident in 2030. 
 
-Using GIS methods, we analyze the heatmap of bike-related accidents in Boston, overlayed with the current bike network. As the aim of this project is to improve the physical design of bike infrastructure, we prioritize the network with design problems.
+Using GIS methods, we analyze the heatmap of bike-related accidents in Boston, overlayed with the current bike network, identifying the improvement priority. As we aim the enhancement of physical design, we prioritize road infrastructure with design problems that harm cyclists.
 
-There are 6 clusters of improvement priority for Boston’s bike network: Brighton, additional connection between local streets and the Paul Dudley White Bike Path; Downtown Boston, connectivity between major streets; Jamaica Pond, coastline bike path; Field Corner, disconnected bike path; William T Morrisey Boulevard, additional connection to a bike crossing; and Neponset River Bike Path, additional connection to local streets.
+As a result, there are 6 clusters of improvement priority for Boston’s bike network: Brighton, additional connection between local streets and the Paul Dudley White Bike Path; Downtown Boston, connectivity between major streets; Jamaica Pond, coastline bike path; Field Corner, disconnected bike path; William T Morrisey Boulevard, additional connection to a bike crossing; and Neponset River Bike Path, additional connection to local streets.
 
-## Influence of Bike Infrastructure on Car Congestion, Travel Times and Mode Choice 
+### Influence of Bike Infrastructure on Car Congestion, Travel Times and Mode Choice 
+
+**Bike infrastructure modelling in Netlogo**
 ![Bike infrastructure modelling in Netlogo](Picture3.png)
-### Picture: Bike infrastructure modelling in Netlogo
 
 How does car-favorable vs. bike-favorable infrastructure impact congestion and travel time, and thus people’s decision to choose sustainable transportation modes? By modeling these scenarios in Netlogo, we can better evaluate and understand emerging patterns from existing transportation planning policies. This question explores how individuals and systems respond to different mobility policies under changing conditions. 
 
-This project uses agent-based modeling as a methodology to identify those changes under three different scenarios: expanding bike infrastructure, varying departure times, and the implementation of protected bike lanes.  The agent-based modeling allows us to simulate dedicated bike lanes and assess how infrastructure and policy decisions impact congestion and travel times, and thus individuals’ decisions to choose sustainable transportation methods. 
+This project uses agent-based modeling as a methodology to identify those changes under three different scenarios: expanding bike infrastructure, varying departure times, and the implementation of protected bike lanes. The agent-based modeling allows us to simulate dedicated bike lanes and assess how infrastructure and policy decisions impact congestion and travel times, and thus individuals’ decisions to choose sustainable transportation methods. 
 
-To encourage sustainable transportation, particularly bikes, the city government should reallocate more street space for bike infrastructure, pair the expansion with flexible work policies, and invest in more protected bike lanes when the city cannot provide a bigger street proportion to bikes.
+In conclusion, cities can encourage sustainable transportation, particularly bikes, mainly by reallocating street space for bike infrastructure, pair the expansion with flexible work policies, and invest in more protected bike lanes when the city cannot provide a bigger street proportion to bikes.
 
-# Skills and Language
-## Skills: Proficient in ArcGIS Pro, Microsoft Word, Excel, PowerPoint, Canva, CorelDraw/Adobe Illustrator/Affinity. Familiar with R Studio, SPSS, Tableau, Videographic applications 
-## Language: English, Bahasa Indonesia, Sundanese, Javanese 
+## Book and Articles
+
+**Article on Academic Journal**
+
+Sarosa, W., Susetyo, N. A., Aulianisa, M. N., Maulaa, M. R., & Giffary, P. (2023). FOSTERING HUMAN DIMENSION OF SMART CITIES: Lessons from Jakarta for Nusantara, Indonesia’s New Capital City in the Making. Smart City, 2(2), 4.
+
+**Books**
+
+Sarosa, W., Kusuma, E. D., Aulianisa, M. N., Susetyo, N. A., Maulaa, M. R., & Giffary, P. (2024). Kota Tangguh Pasca Korona: Urgensi Resiliensi Kota di Era Ketidakpastian. Bandung: Expose Mizan.
+
+Sarosa, W., Kusuma, E. D., Aulianisa, M. N., Susetyo, N. A., Maulaa, M. R., & Giffary, P. (2024). Coretan Ringkas Tentang Kota: Catatan untuk Kota Berkelanjutan. Jakarta: Ruang Waktu Knowledge Hub.
+
+**Undergraduate Thesis**
+
+Maulaa, M. R. (2019). Operasionalisasi Konsep Shared Street (Studi Kasus: Kampung Kota RW O2 Tugu Selatan, Koja, Jakarta Utara) (The Operationalization of Shared Street Concept (Case Study: Kampung Kota RW 02 South Tugu, Koja, North Jakarta)). Undergraduate Thesis. Bandung: ITB
 
 
-# H1
-## H2
-### H3
-#### H4
-##### H5
-###### H6
+## Skills and Language
 
-Alternatively, for H1 and H2, an underline-ish style:
+**Skills**: Proficient in ArcGIS Pro, Microsoft Word, Excel, PowerPoint, Canva, CorelDraw/Adobe Illustrator/Affinity. Familiar with R Studio, SPSS, Tableau, Videographic applications 
 
-Alt-H1
-======
-
-Alt-H2
-------
-
-Emphasis, aka italics, with *asterisks* or _underscores_.
-
-Strong emphasis, aka bold, with **asterisks** or __underscores__.
-
-Combined emphasis with **asterisks and _underscores_**.
-
-Strikethrough uses two tildes. ~~Scratch this.~~
-
-1. First ordered list item
-2. Another item
-⋅⋅⋅⋅* Unordered sub-list. 
-1. Actual numbers don't matter, just that it's a number
-⋅⋅⋅⋅1. Ordered sub-list
-4. And another item.
-
-⋅⋅⋅You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we'll use three here to also align the raw Markdown).
-
-⋅⋅⋅To have a line break without a paragraph, you will need to use two trailing spaces.⋅⋅
-⋅⋅⋅Note that this line is separate, but within the same paragraph.⋅⋅
-⋅⋅⋅(This is contrary to the typical GFM line break behaviour, where trailing spaces are not required.)
-
-* Unordered list can use asterisks
-- Or minuses
-+ Or pluses
-
-[I'm an inline-style link](https://www.google.com)
-
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
-
-[I'm a reference-style link][Arbitrary case-insensitive reference text]
-
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
-
-[You can use numbers for reference-style link definitions][1]
-
-Or leave it empty and use the [link text itself].
-
-URLs and URLs in angle brackets will automatically get turned into links. 
-http://www.example.com or <http://www.example.com> and sometimes 
-example.com (but not on Github, for example).
-
-Some text to show that the reference links can follow later.
-
-[arbitrary case-insensitive reference text]: https://www.mozilla.org
-[1]: http://slashdot.org
-[link text itself]: http://www.reddit.com
-
-Here's our logo (hover to see the title text):
-
-Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-
-Reference-style: 
-![alt text][logo]
-
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
-
-Inline `code` has `back-ticks around` it.
-
-```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
-```
- 
-```python
-s = "Python syntax highlighting"
-print s
-```
- 
-```
-No language indicated, so no syntax highlighting. 
-But let's throw in a <b>tag</b>.
-```
-
-var s = "JavaScript syntax highlighting";
-alert(s);
-
-s = "Python syntax highlighting"
-print s
-
-No language indicated, so no syntax highlighting in Markdown Here (varies on Github). 
-But let's throw in a <b>tag</b>.
-
-Here is a simple footnote[^1].
-
-A footnote can also have multiple lines[^2].  
-
-You can also use words, to fit your writing style more closely[^note].
-
-[^1]: My reference.
-[^2]: Every new line should be prefixed with 2 spaces.  
-  This allows you to have a footnote with multiple lines.
-[^note]:
-    Named footnotes will still render with numbers instead of the text but allow easier identification and linking.  
-    This footnote also has been made with a different syntax using 4 spaces for new lines.
-
-Colons can be used to align columns.
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-There must be at least 3 dashes separating each header cell.
-The outer pipes (|) are optional, and you don't need to make the 
-raw Markdown line up prettily. You can also use inline Markdown.
-
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
-
-> Blockquotes are very handy in email to emulate reply text.
-> This line is part of the same quote.
-
-Quote break.
-
-> This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can *put* **Markdown** into a blockquote.
-
-<dl>
-  <dt>Definition list</dt>
-  <dd>Is something people use sometimes.</dd>
-
-  <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
-</dl>
-
-Three or more...
-
----
-
-Hyphens
-
-***
-
-Asterisks
-
-___
-
-Underscores
-
-Here's a line for us to start with.
-
-This line is separated from the one above by two newlines, so it will be a *separate paragraph*.
-
-This line is also a separate paragraph, but...
-This line is only separated by a single newline, so it's a separate line in the *same paragraph*.
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
-" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
-
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+**Language**: English, Bahasa Indonesia, Sundanese, Javanese 
