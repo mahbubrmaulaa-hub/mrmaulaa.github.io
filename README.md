@@ -1,5 +1,4 @@
 # Mahbub R Maulaa
-------
 
 ### Urban Data Analyst and Writer
 
@@ -19,7 +18,7 @@ I am a Research Assistant at the Boston Area Research Initiative (BARI) and a fo
 
 # Projects
 ## Evaluating the Effect of Short-Term Rental (STR) Program on Airbnb Growth in Boston (2019-2022) 
-![Airbnb Growth Index in Greater Boston Area (2019-2022)](https://github.com/mahbubrmaulaa-hub/mrmaulaa.github.io/blob/0457b6280ef7b39f3a6862c075bf737f02fcce85/Airbnb.png)
+![Airbnb Growth Index in Greater Boston Area (2019-2022)](Airbnb.png)
 ### Picture: Airbnb Growth Index in Greater Boston Area (2019-2022)
 
 To curb the negative impact of Airbnb on housing stocks, the City of Boston imposed a Short-Term Rental (STR) Program in 2019. This project assesses the effectiveness of the STR Program in controlling the growth of Airbnb in Boston in comparison to other neighboring towns across the Greater Boston Area. Furthermore, the project investigates a deeper analysis of Blue Hill Ave, where the Common SENSE project is implemented to examine environmental justice. This neighborhood could become an example of how effective this policy can be.
@@ -29,7 +28,7 @@ This project uses quantitative methods. The descriptive statistics method is use
 We observe that the growth of Airbnb listings, prices, and availability/occupancy in Boston City is slower than in other neighboring towns in Greater Boston. Furthermore, the specific restrictions in this program have successfully reduced the growth index of the home-sharing industry in Boston’s public housing areas. The City of Boston has successfully implemented the STR Program to mitigate the housing crisis while maintaining the benefits of the gig economy. Brookline, another neighboring town, replicated this policy in 2021, and its results may not be reflected in this study. Our analysis can also help Boston residents, especially those in the Blue Hill Ave community, understand the impact of this policy on urban justice.
 
 ## Identifying Critical Bike Network Improvement for Boston’s Vision Zero 2030
-![Vision Zero 2030: Bike-related Safety Concerns](https://github.com/mahbubrmaulaa-hub/mrmaulaa.github.io/blob/0457b6280ef7b39f3a6862c075bf737f02fcce85/Picture2.jpg)
+![Vision Zero 2030: Bike-related Safety Concerns](Picture2.jpg)
 ### Picture: Vision Zero 2030: Bike-related Safety Concerns
 ### Data source: Analyze Boston and BARI, 2023
 
@@ -40,7 +39,7 @@ Using GIS methods, we analyze the heatmap of bike-related accidents in Boston, o
 There are 6 clusters of improvement priority for Boston’s bike network: Brighton, additional connection between local streets and the Paul Dudley White Bike Path; Downtown Boston, connectivity between major streets; Jamaica Pond, coastline bike path; Field Corner, disconnected bike path; William T Morrisey Boulevard, additional connection to a bike crossing; and Neponset River Bike Path, additional connection to local streets.
 
 ## Influence of Bike Infrastructure on Car Congestion, Travel Times and Mode Choice 
-![Bike infrastructure modelling in Netlogo](https://github.com/mahbubrmaulaa-hub/mrmaulaa.github.io/blob/0457b6280ef7b39f3a6862c075bf737f02fcce85/Picture3.png)
+![Bike infrastructure modelling in Netlogo](Picture3.png)
 ### Picture: Bike infrastructure modelling in Netlogo
 
 How does car-favorable vs. bike-favorable infrastructure impact congestion and travel time, and thus people’s decision to choose sustainable transportation modes? By modeling these scenarios in Netlogo, we can better evaluate and understand emerging patterns from existing transportation planning policies. This question explores how individuals and systems respond to different mobility policies under changing conditions. 
