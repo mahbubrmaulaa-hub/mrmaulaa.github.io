@@ -53,10 +53,12 @@ In conclusion, cities can encourage sustainable transportation, particularly bik
 
 # Book and Articles
 
-**Article on Academic Journal** *separate paragraph*.
+**Article on Academic Journal**
+
 Sarosa, W., Susetyo, N. A., Aulianisa, M. N., Maulaa, M. R., & Giffary, P. (2023). FOSTERING HUMAN DIMENSION OF SMART CITIES: Lessons from Jakarta for Nusantara, Indonesia’s New Capital City in the Making. Smart City, 2(2), 4.
 
-**Books** *separate paragraph*.
+**Books**
+
 Sarosa, W., Kusuma, E. D., Aulianisa, M. N., Susetyo, N. A., Maulaa, M. R., & Giffary, P. (2024). Kota Tangguh Pasca Korona: Urgensi Resiliensi Kota di Era Ketidakpastian. Bandung: Expose Mizan.
 
 Sarosa, W., Kusuma, E. D., Aulianisa, M. N., Susetyo, N. A., Maulaa, M. R., & Giffary, P. (2024). Coretan Ringkas Tentang Kota: Catatan untuk Kota Berkelanjutan. Jakarta: Ruang Waktu Knowledge Hub.
