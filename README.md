@@ -63,7 +63,8 @@ Sarosa, W., Kusuma, E. D., Aulianisa, M. N., Susetyo, N. A., Maulaa, M. R., & Gi
 
 Sarosa, W., Kusuma, E. D., Aulianisa, M. N., Susetyo, N. A., Maulaa, M. R., & Giffary, P. (2024). Coretan Ringkas Tentang Kota: Catatan untuk Kota Berkelanjutan. Jakarta: Ruang Waktu Knowledge Hub.
 
-**Undergraduate Thesis** *separate paragraph*.
+**Undergraduate Thesis**
+
 Maulaa, M. R. (2019). Operasionalisasi Konsep Shared Street (Studi Kasus: Kampung Kota RW O2 Tugu Selatan, Koja, Jakarta Utara) (The Operationalization of Shared Street Concept (Case Study: Kampung Kota RW 02 South Tugu, Koja, North Jakarta)). Undergraduate Thesis. Bandung: ITB
 
 
