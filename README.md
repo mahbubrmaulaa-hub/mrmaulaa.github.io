@@ -1,3 +1,6 @@
+# About Me
+I am a Research Assistant at the Boston Area Research Initiative (BARI) and a founder of Curiocity Indonesia. My research focus extends to a wide range of topics, including climate issues, housing, transportation, and community development. 
+
 # Education:
 ## Northeastern University – April 2026
 ## Institut Teknologi Bandung – Oktober 2019
