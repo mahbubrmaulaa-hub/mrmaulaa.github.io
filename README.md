@@ -1,19 +1,19 @@
-# About Me
+## About Me
 I am a Research Assistant at the Boston Area Research Initiative (BARI) and a founder of Curiocity Indonesia. My research focus extends to a wide range of topics, including climate issues, housing, transportation, and community development. 
 
-# Education:
-## Northeastern University – April 2026
-## Institut Teknologi Bandung – Oktober 2019
+## Education:
+1. Northeastern University – April 2026
+2. Institut Teknologi Bandung – Oktober 2019
 
-# Experience:
-## Boston Area Research Initiative (BARI) – Research Assistant (Jan 2025—April 2026)
-## NUDP World Bank-PT Lenggogeni-MoHA Indonesia – Development Planning Assistant (March 2023—June 2024)
-## Ruang Waktu Knowledge Hub – Knowledge Worker (May 2022—June 2024)
-## Pikiran Rakyat Media Network – Journalist (Dec 2019—July 2021)
-## Institute for Transportation and Development Policy (ITDP) – Intern (April 2019—Oct 2019)
+## Experience:
+1. Boston Area Research Initiative (BARI) – Research Assistant (Jan 2025—April 2026)
+2. NUDP World Bank-PT Lenggogeni-MoHA Indonesia – Development Planning Assistant (March 2023—June 2024)
+3. Ruang Waktu Knowledge Hub – Knowledge Worker (May 2022—June 2024)
+4. Pikiran Rakyat Media Network – Journalist (Dec 2019—July 2021)
+5. Institute for Transportation and Development Policy (ITDP) – Intern (April 2019—Oct 2019)
 
-# Projects
-## Evaluating the Effect of Short-Term Rental (STR) Program on Airbnb Growth in Boston (2019-2022) 
+## Projects
+### Evaluating the Effect of Short-Term Rental (STR) Program on Airbnb Growth in Boston (2019-2022) 
 
 **Airbnb Growth Index in Greater Boston Area (2019-2022)**
 ![Airbnb Growth Index in Greater Boston Area (2019-2022)](Airbnb.png)
@@ -24,7 +24,7 @@ First, we break down the demographic, property value, and Airbnb information thr
 
 As a result, Airbnb listings, prices, and availability/occupancy in Boston is growing slower than in other neighboring towns in Greater Boston. By reducing the growth index of the home-sharing industry, especially in the predominantly public housing neighborhoods, the City of Boston has mitigated the further impact of housing crisis while maintaining the benefits of the gig economy. Brookline, another neighboring town, replicated this policy in 2021, and its results may not be reflected in this study.
 
-## Identifying Critical Bike Network Improvement for Boston’s Vision Zero 2030
+### Identifying Critical Bike Network Improvement for Boston’s Vision Zero 2030
 
 **Vision Zero 2030: Bike-related Safety Concerns**
 ![Vision Zero 2030: Bike-related Safety Concerns](Picture2.jpg)
@@ -36,7 +36,7 @@ Using GIS methods, we analyze the heatmap of bike-related accidents in Boston, o
 
 As a result, there are 6 clusters of improvement priority for Boston’s bike network: Brighton, additional connection between local streets and the Paul Dudley White Bike Path; Downtown Boston, connectivity between major streets; Jamaica Pond, coastline bike path; Field Corner, disconnected bike path; William T Morrisey Boulevard, additional connection to a bike crossing; and Neponset River Bike Path, additional connection to local streets.
 
-## Influence of Bike Infrastructure on Car Congestion, Travel Times and Mode Choice 
+### Influence of Bike Infrastructure on Car Congestion, Travel Times and Mode Choice 
 
 **Bike infrastructure modelling in Netlogo**
 ![Bike infrastructure modelling in Netlogo](Picture3.png)
@@ -47,7 +47,7 @@ This project uses agent-based modeling as a methodology to identify those change
 
 In conclusion, cities can encourage sustainable transportation, particularly bikes, mainly by reallocating street space for bike infrastructure, pair the expansion with flexible work policies, and invest in more protected bike lanes when the city cannot provide a bigger street proportion to bikes.
 
-# Book and Articles
+## Book and Articles
 
 **Article on Academic Journal**
 
@@ -64,7 +64,7 @@ Sarosa, W., Kusuma, E. D., Aulianisa, M. N., Susetyo, N. A., Maulaa, M. R., & Gi
 Maulaa, M. R. (2019). Operasionalisasi Konsep Shared Street (Studi Kasus: Kampung Kota RW O2 Tugu Selatan, Koja, Jakarta Utara) (The Operationalization of Shared Street Concept (Case Study: Kampung Kota RW 02 South Tugu, Koja, North Jakarta)). Undergraduate Thesis. Bandung: ITB
 
 
-# Skills and Language
+## Skills and Language
 
 **Skills**: Proficient in ArcGIS Pro, Microsoft Word, Excel, PowerPoint, Canva, CorelDraw/Adobe Illustrator/Affinity. Familiar with R Studio, SPSS, Tableau, Videographic applications 
 
