@@ -51,6 +51,22 @@ This project uses agent-based modeling as a methodology to identify those change
 
 To encourage sustainable transportation, particularly bikes, the city government should reallocate more street space for bike infrastructure, pair the expansion with flexible work policies, and invest in more protected bike lanes when the city cannot provide a bigger street proportion to bikes.
 
+# Book and Articles
+
+**Article on Academic Journal**
+Sarosa, W., Susetyo, N. A., Aulianisa, M. N., Maulaa, M. R., & Giffary, P. (2023). FOSTERING HUMAN DIMENSION OF SMART CITIES: Lessons from Jakarta for Nusantara, Indonesia’s New Capital City in the Making. Smart City, 2(2), 4.
+
+**Books**
+Sarosa, W., Kusuma, E. D., Aulianisa, M. N., Susetyo, N. A., Maulaa, M. R., & Giffary, P. (2024). Kota Tangguh Pasca Korona: Urgensi Resiliensi Kota di Era Ketidakpastian. Bandung: Expose Mizan.
+
+Sarosa, W., Kusuma, E. D., Aulianisa, M. N., Susetyo, N. A., Maulaa, M. R., & Giffary, P. (2024). Coretan Ringkas Tentang Kota: Catatan untuk Kota Berkelanjutan. Jakarta: Ruang Waktu Knowledge Hub.
+
+**Undergraduate Thesis**
+Maulaa, M. R. (2019). Operasionalisasi Konsep Shared Street (Studi Kasus: Kampung Kota RW O2 Tugu Selatan, Koja, Jakarta Utara) (The Operationalization of Shared Street Concept (Case Study: Kampung Kota RW 02 South Tugu, Koja, North Jakarta)). Undergraduate Thesis. Bandung: ITB
+
+
 # Skills and Language
-## Skills: Proficient in ArcGIS Pro, Microsoft Word, Excel, PowerPoint, Canva, CorelDraw/Adobe Illustrator/Affinity. Familiar with R Studio, SPSS, Tableau, Videographic applications 
-## Language: English, Bahasa Indonesia, Sundanese, Javanese 
+
+**Skills**: Proficient in ArcGIS Pro, Microsoft Word, Excel, PowerPoint, Canva, CorelDraw/Adobe Illustrator/Affinity. Familiar with R Studio, SPSS, Tableau, Videographic applications 
+
+**Language**: English, Bahasa Indonesia, Sundanese, Javanese 
